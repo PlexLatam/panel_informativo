@@ -8,7 +8,17 @@
         span
           i.fas.fa-info
       h1 Introducción
-    
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/temas/intro/img1.png', alt='Imágen decorativa')
+
+      .col-lg-7
+        h1.text-center <b style= "color:#ffcc00;">LA PLATAFORMA QUE LO TIENE TODO</b>
+        b PLEX es el servicio de streaming de peliculas y series que lo tiene todo. Con el mejor contenido seleccionado de todas las plataformas como, Netflix, Prime Video, Disney, HBO MAX, y estrenos de Cine.
+
+
 </template>
 
 <script>

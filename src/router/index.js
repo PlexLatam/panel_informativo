@@ -82,14 +82,6 @@ const router = new VueRouter({
       component: () =>
         import(/* webpackChunkName: "sintesis" */ '../views/sintesis.vue'),
     },
-    {
-      path: '/creditos',
-      name: 'creditos',
-      component: () =>
-        import(
-          /* webpackChunkName: "creditos" */ '../../node_modules/ecored-base-pkg/src/views/Creditos.vue'
-        ),
-    },
   ],
   scrollBehavior(to, from) {
     if (to.hash) {

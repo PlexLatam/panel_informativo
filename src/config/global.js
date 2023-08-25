@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'PLEX LATAM',
     descripcionCurso:
       'Seguramente en más de una ocasión hayas oído hablar de Plex como una herramienta a la que la gente se refiere como la solución definitiva para ver cualquier contenido multimedia. Por eso hoy vamos a explicarte qué es Plex y cómo funciona',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
   menuPrincipal: {

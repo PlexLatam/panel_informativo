@@ -58,10 +58,28 @@
     content: ""
     position: absolute
     margin-left: -48px
+    margin-top: -69px
+    width: calc( 100% + 96px )
+    height: 114%       
+    background-image: url('../assets/curso/temas/intro/fondo2.png')
+    background-size: 100% auto  
+    background-repeat: round
+    background-position: center top 
+    @media (max-width: 500px)
+      background-repeat: space
+
+.bg2
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
     margin-top: -20px
     width: calc( 100% + 96px )
     height: 100%       
-    background-image: url('../assets/curso/temas/tema1/fondo1.png')
+    background-image: url('../assets/curso/temas/tema1/fondo2.png')
     background-size: 100% auto  
     background-repeat: round
     background-position: center top 

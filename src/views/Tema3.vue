@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo de primer nivel
+      h1 ¿Como solicitar series y peliculas en el canal de Telegram?
 
 </template>
 

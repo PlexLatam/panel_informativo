@@ -22,20 +22,26 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'PREGUNTAS FRECUENTES',
+        titulo: '¿Como se Instala?',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema2',
+        numero: '2',
+        titulo: '¿Como configurar la calidad del Video en mi TV?',
         desarrolloContenidos: true,
       },
 
       {
-        nombreRuta: 'tema2',
-        numero: '2',
-        titulo: 'Titulo de primer nivel',
+        nombreRuta: 'tema3',
+        numero: '3',
+        titulo: '¿Como solicitar series y peliculas en el canal de Telegram?',
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Titulo de primer nivel',
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: '¿Como hacer si quiero ver Plex en mi celular?',
         desarrolloContenidos: true,
       },
     ],

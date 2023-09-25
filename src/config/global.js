@@ -41,7 +41,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: '¿Como hacer si quiero ver Plex en mi celular?',
+        titulo: 'Plex en dispositivos móviles, cómo instalarlo y cómo funciona',
         desarrolloContenidos: true,
       },
     ],

@@ -16,8 +16,8 @@
           img(src='@/assets/curso/temas/intro/img1.png', alt='Imágen decorativa')
 
       .col-lg-7
-        h1.text-center <b style= "color:#ffcc00;">LA PLATAFORMA QUE LO TIENE TODO</b>
-        b PLEX es el servicio de streaming de peliculas y series que lo tiene todo. Con el mejor contenido seleccionado de todas las plataformas como, Netflix, Prime Video, Disney, HBO MAX, y estrenos de Cine.
+        h1.text-center <b style= "color:#d58401;">LA PLATAFORMA QUE LO TIENE TODO</b>
+        b PLEX es el servicio de streaming de peliculas y series que lo tiene todo. Reúne el mejor contenido seleccionado que puedes encontrar normalmente en plataformas como, Netflix, Prime Video, Disney, HBO MAX, y estrenos de Cine.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-11
@@ -47,7 +47,7 @@
 
 
           .row(titulo="<b style= 'color: #ffffff;'>¿SI ME REGISTRO POR MI CUENTA EN PLEX.COM TENDRE ACCESO Al CONTENIDO PREMIUM?</b>")
-            p.texto-blanco En PLEX, el contenido premium se encuentra en servidores privados que no están disponibles para el registro público. Para acceder a este contenido, ofrecemos nuestro servicio de PLEX LATAM, el cual te da acceso a todo el contenido de nuestra plataforma, incluyendo los estrenos de cine y contenido exclusivo de otras plataformas. Regístrate con nosotros y podrás disfrutar de todo nuestro contenido.
+            p.texto-blanco En PLEX, el contenido premium se encuentra en servidores privados que no están disponibles para el registro público. Para acceder a este contenido, ofrecemos nuestro servicio de PLEX LATAM, el cual te da acceso a todo el contenido de nuestra plataforma. Regístrate con nosotros y podrás disfrutar de todo nuestro contenido.
 
           .row(titulo="<b style= 'color: #ffffff;'>¿EL PAGO ES MENSUAL?</b>")
             p.texto-blanco El Pago de este servicio es mensual, y tienes la opcion de cancelarlo cuando quieras ya que no hay contratos de permanencia.

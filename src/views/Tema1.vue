@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--morada.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
@@ -38,7 +38,7 @@
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h3 ingresa tu cuenta personal.
-            p el proceso continua ingresando en el siguiente link: <a href="https://www.plex.tv/" target="_blank"> <b style= "color:#2D007B;">https://www.plex.tv/</b> </a> y luego:
+            p el proceso continua ingresando en el siguiente link: <a href="https://www.plex.tv/" target="_blank"> <b style= "color:#ce00ff;">https://www.plex.tv/</b> </a> y luego:
 
             ul.lista-ul--color.fa-ul2
               li
@@ -60,14 +60,14 @@
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h3 Activación de la pantalla.
-            p El último paso es ingresar en este link <a href="https://www.plex.tv/link/" target="_blank"> <b style= "color:#2D007B;">https://www.plex.tv/link/</b> </a> en donde debes ingresar el código de 4 dígitos que aparece en la pantalla de tu dispositivo.
+            p El último paso es ingresar en este link <a href="https://www.plex.tv/link/" target="_blank"> <b style= "color:#ce00ff;">https://www.plex.tv/link/</b> </a> en donde debes ingresar el código de 4 dígitos que aparece en la pantalla de tu dispositivo.
         
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img4.png', alt='Texto que describa la imagen')
 
     .row.justify-content-center.align-items-center.mb-5
-      h4.text-center <b style= "color:#d58401;">Ahora puedes disfrutar de todo el contenido de PLEX LATAM la mejor aplicacion del mercado.</b>
+      h4.text-center <b style= "color:#EBAE00;">Ahora puedes disfrutar de todo el contenido de PLEX LATAM la mejor aplicacion del mercado.</b>
 
 
 

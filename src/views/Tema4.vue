@@ -36,7 +36,7 @@
         figure
           img(src='@/assets/curso/temas/tema4/img2.png', alt='Imágen decorativa')
 
-    p Plex para dispositivos móviles es una aplicación gratuita, pero está limitada a solo un minuto de vídeo. Si quieres eliminar esta limitación, tienes dos opciones. Por un lado está Plex Pass, que es una cuota mensual de unos 4,99 euros al mes con funciones como sincronización en la nube o modo offline en el móvil. Si eso no te convence, también puedes hacer <b>un pago unico in-app</b> de 4,33 euros para desbloquear la reproducción en dispositivos móviles. Si por ahora prefieres únicamente probar, pulsa Quedarme en modo de prueba.
+    p Plex para dispositivos móviles es una aplicación gratuita, pero está limitada a solo un minuto de vídeo. Si quieres eliminar esta limitación, tienes dos opciones. Por un lado está Plex Pass, que es una cuota mensual de unos 35.000 pesos aproximadamente al mes con funciones como sincronización en la nube o modo offline en el móvil. Si eso no te convence, también puedes hacer <b>un pago unico in-app</b> de 29.000 pesos aproximadamente para desbloquear la reproducción en dispositivos móviles. Si por ahora prefieres únicamente probar, pulsa Quedarme en modo de prueba.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3

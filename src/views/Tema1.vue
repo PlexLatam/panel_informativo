@@ -54,8 +54,26 @@
                 p.mb-0 Por último debes de ingresar el correo que te suministramos en la casilla que dice email address y abajo de esta poner la clave.
 
           .col-md-5
-            figure
-              img(src='@/assets/curso/temas/tema1/img3.png', alt='Texto que describa la imagen')
+            ImagenInfografica.color-secundario
+              template(v-slot:imagen)
+                figure
+                  img(src='@/assets/curso/temas/tema1/img3.svg', alt='Texto que describa la imagen')
+
+              .tarjeta.color-acento-contenido.p-2(x="29%" y="11%" numero="")
+                .row
+                  figure
+                    img(src='@/assets/curso/temas/tema1/img3-1.svg', alt='Imágen decorativa')
+
+              .tarjeta.color-acento-contenido.p-2(x="51%" y="23%" numero="")
+                .row
+                  figure
+                    img(src='@/assets/curso/temas/tema1/img3-2.svg', alt='Imágen decorativa')
+
+              .tarjeta.color-acento-contenido.p-2(x="80%" y="36%" numero="")
+                .row
+                  figure
+                    img(src='@/assets/curso/temas/tema1/img3-3.svg', alt='Imágen decorativa')
+
 
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
